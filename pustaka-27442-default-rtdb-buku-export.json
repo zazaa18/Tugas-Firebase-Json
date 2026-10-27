@@ -1,0 +1,100 @@
+[
+  null,
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "buku_6ad7a62613d0e5.22679725.jpg",
+    "id_buku": 1,
+    "id_kategori": 2,
+    "judul_buku": "Laskar Pelangi",
+    "penerbit": "Bentang Pustaka",
+    "penulis": "Andrea Hirata",
+    "stok_tersedia": 3,
+    "stok_total": 10
+  },
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "buku_6ad7a494ddcb36.34944377.jpg",
+    "id_buku": 2,
+    "id_kategori": 1,
+    "judul_buku": "Pemrograman Python untuk Pemula",
+    "penerbit": "Deepublish",
+    "penulis": "Sugeng Winardi, S.Kom., M.T.",
+    "stok_tersedia": 11,
+    "stok_total": 15
+  },
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "buku_6ad7a35d35e265.30483109.jpg",
+    "id_buku": 3,
+    "id_kategori": 2,
+    "judul_buku": "Bumi Manusia",
+    "penerbit": "Lentera Dipantara",
+    "penulis": "Pramoedya Ananta Toer",
+    "stok_tersedia": 1,
+    "stok_total": 8
+  },
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "filosofi.jpg",
+    "id_buku": 4,
+    "id_kategori": 2,
+    "judul_buku": "Filosofi Teras",
+    "penerbit": "Kompas",
+    "penulis": "Henry Manampiring",
+    "stok_tersedia": 0,
+    "stok_total": 5
+  },
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "buku_6ad7a239929f12.23273818.jpg",
+    "id_buku": 5,
+    "id_kategori": 3,
+    "judul_buku": "Matematika Diskrit",
+    "penerbit": "Informatika",
+    "penulis": "Rinaldi Munir",
+    "stok_tersedia": 6,
+    "stok_total": 12
+  },
+  null,
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "manajemen.jpg",
+    "id_buku": 7,
+    "id_kategori": 4,
+    "judul_buku": "Manajemen Strategik & Bisnis.",
+    "penerbit": "Bumi Aksara.",
+    "penulis": "Dr. Yanto Ramli, M.M. dan Prof. Dr. Hj. Dwi Kartini, S.E., Spec. Lic.",
+    "stok_tersedia": 13,
+    "stok_total": 14
+  },
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "digital.jpg",
+    "id_buku": 8,
+    "id_kategori": 4,
+    "judul_buku": "Digital Marketing",
+    "penerbit": "OrangeBooks Publication",
+    "penulis": "Avijit Kumar Roy dan Aritra Kumar Roy",
+    "stok_tersedia": 0,
+    "stok_total": 9
+  },
+  {
+    "cover_buku": "cover-default.jpg",
+    "created_at": "2026-10-20 12:52:14",
+    "gambar": "sejarah.jpg",
+    "id_buku": 9,
+    "id_kategori": 5,
+    "judul_buku": "Sejarah Dunia yang Disembunyikan",
+    "penerbit": "Alvabet",
+    "penulis": "Jonathan Black",
+    "stok_tersedia": 15,
+    "stok_total": 15
+  }
+]

@@ -1,0 +1,28 @@
+[
+  null,
+  {
+    "created_at": "2026-10-20 12:52:14",
+    "id_kategori": 1,
+    "nama_kategori": "Teknologi & Komputer"
+  },
+  {
+    "created_at": "2026-10-20 12:52:14",
+    "id_kategori": 2,
+    "nama_kategori": "Novel & Sastra"
+  },
+  {
+    "created_at": "2026-10-20 12:52:14",
+    "id_kategori": 3,
+    "nama_kategori": "Sains & Matematika"
+  },
+  {
+    "created_at": "2026-10-20 12:52:14",
+    "id_kategori": 4,
+    "nama_kategori": "Ekonomi & Bisnis"
+  },
+  {
+    "created_at": "2026-10-20 12:52:14",
+    "id_kategori": 5,
+    "nama_kategori": "Sejarah & Kebudayaan"
+  }
+]
